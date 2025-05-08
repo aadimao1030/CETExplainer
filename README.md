@@ -23,7 +23,7 @@ To set up the required environment, you can choose from the following options:
 
 ### 1. Prediction
   ```python
-  python /prediction/code/DGCN.py
+  python main.py
   ```
 
 ### 2. Explanation
